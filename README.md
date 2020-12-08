@@ -1,5 +1,7 @@
 # iframe-test
 
-## iframe bellow </article>
- <iframe src=\"https://www."</article>".com\" title="W3Schools Free Online Web Tutorials"></iframe>
-<article>
+## iframe bellow
+
+https://www.</article>.com/cos
+
+<a href="https://www" rel="nofollow"></article></a>
